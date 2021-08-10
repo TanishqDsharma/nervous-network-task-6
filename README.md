@@ -1,6 +1,8 @@
 # nervous-network-task-6
 
 1) A screenshot of the console output immediately after you have successfully generated your Deposit Receiver Address.
+   
+   ![alt text](https://github.com/TanishqDsharma/nervous-network-task-6/blob/main/tas6.png)
 
 2) Your Deposit Receiver Address (in text format).
 
